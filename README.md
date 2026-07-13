@@ -1,2 +1,2 @@
-# psicologyc-app
+# psycologic-app
 Psycologic app
